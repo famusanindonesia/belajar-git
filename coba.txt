@@ -1,3 +1,4 @@
 coba membuat file di repository
 coba edit dari local ke remote
 test pull
+tes push
